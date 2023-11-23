@@ -7,6 +7,7 @@ My Unreal repos are privated for a simple reason: they're either commercial proj
 - [Speed Fire](https://mofumofustudios.itch.io/speed-fire)
 - [Tumble](https://mofumofustudios.itch.io/tumble)
 - [Descending Dude](https://mofumofustudios.itch.io/descending-dude)
+- [Professional Yoinker](https://mofumofustudios.itch.io/professional-yoinker)
 
 ## Original Projects
 
